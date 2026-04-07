@@ -1,7 +1,6 @@
 #  <p align="center">Multimodal Emotion and Depression Co-detection Method Based on Source-Free Domain Adaptation and Task Specialization</p>
 
- <p align="center">Jia Liu, Yiyang Wang, Tianshuo Fu, Yangrui Zhang, and Dapeng Chen</p>
-  <p align="center">Nanjing University of Information Science and Technology</p>
+
 
 ---
 ## <p align="center">ABSTRACT</p>
